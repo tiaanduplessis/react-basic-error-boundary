@@ -16,10 +16,9 @@
   },
   "keywords": [
     "react",
-    "form",
+    "error",
     "react",
-    "input",
-    "utility"
+    "boundary"
   ],
   "license": "MIT",
   "peerDependencies": {
