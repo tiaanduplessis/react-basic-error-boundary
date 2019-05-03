@@ -13,6 +13,10 @@ class BasicErrorBoundary extends Component {
         onError: PropTypes.func
     }
 
+    static defaultProps = {
+        fallback: () => null
+    }
+
     static getDerivedStateFromError(error) {
         return { hasError: true, error };
     }
