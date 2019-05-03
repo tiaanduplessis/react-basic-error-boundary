@@ -4,7 +4,8 @@
 [![package downloads](https://img.shields.io/npm/dm/react-basic-error-boundary.svg?style=flat-square)](https://npmjs.org/package/react-basic-error-boundary)
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 [![package license](https://img.shields.io/npm/l/react-basic-error-boundary.svg?style=flat-square)](https://npmjs.org/package/react-basic-error-boundary)
-[![make a pull request](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com) [![Greenkeeper badge](https://badges.greenkeeper.io/tiaanduplessis/react-basic-error-boundary.svg)](https://greenkeeper.io/)
+[![make a pull request](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com) 
+[![Greenkeeper badge](https://badges.greenkeeper.io/tiaanduplessis/react-basic-error-boundary.svg)](https://greenkeeper.io/)
 
 > Basic error boundary component. Based on the [React documentation](https://reactjs.org/docs/error-boundaries.html).
 
