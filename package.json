@@ -1,6 +1,6 @@
 {
   "name": "react-basic-error-boundary",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Basic error boundary component",
   "main": "dist/react-basic-error-boundary.js",
   "umd:main": "dist/react-basic-error-boundary.umd.js",
